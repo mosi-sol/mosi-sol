@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://linktr.ee/mosi.sol**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/moslem-abbasi-b1bb84230/](https://www.linkedin.com/in/moslem-abbasi-b1bb84230/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/moslem-abbasi/](https://www.linkedin.com/in/moslem-abbasi/)
 
 - ⚡ Fun fact **we are simuleted :)**
 
