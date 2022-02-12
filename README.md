@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **how to`s**
 
-- 👨‍💻 All of my projects are available at [githubs: mosi-sol / investpedia / ...]    (githubs: @mosi-sol / @investpedia / ...)
+- 👨‍💻 All of my projects are available at [githubs: @mosi-sol / @investpedia / ...] 
 
 - 📫 How to reach me **https://linktr.ee/mosi.sol**
 
