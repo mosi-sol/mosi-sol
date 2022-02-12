@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm mosi</h1>
 <h3 align="center">A solidity smartcontract developer from the earth :)</h3>
 
-<p align="left"> <a href="https://twitter.com/cafe_pafe" target="blank"><img src="https://img.shields.io/twitter/follow/cafe_pafe?logo=twitter&style=plastic&labelColor=334455" alt="cafe_pafe" /></a> </p>
-<p align="left"> <a href="https://youtube.com/pafecafe" target="blank"><img src="https://img.shields.io/badge/youtube-watch-red/follow/cafe_pafe?logo=youtube&style=plastic&logoColor=red&labelColor=334455" alt="pafecafe" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/cafe_pafe" target="blank"><img src="https://img.shields.io/twitter/follow/cafe_pafe?logo=twitter&style=plastic&labelColor=334455" alt="cafe_pafe" /></a> 
+<a href="https://youtube.com/pafecafe" target="blank"><img src="https://img.shields.io/badge/youtube-watch-red/follow/cafe_pafe?logo=youtube&style=plastic&logoColor=red&labelColor=334455" alt="pafecafe" /></a> 
+</p>
 
 - 🔭 I’m currently working on [teach solidity for free in farsi language](https://youtube.com/pafecafe)
 
