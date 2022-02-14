@@ -8,20 +8,22 @@
 
 - 🔭 I’m currently working on [teach solidity for free in farsi language](https://youtube.com/pafecafe)
 
-- 🌱 I’m currently learning **how to`s** of blockchain development & reasearch about the smartcontracts.
-
 - 👨‍💻 All of my projects are available at [githubs: @mosi-sol / @investpedia / ...] 
 
-- 📫 How to reach me **https://linktr.ee/mosi.sol**
+- 📫 <a href="https://linktr.ee/mosi.sol" target="blank">
+  <img src="https://img.shields.io/badge/How%20to%20reach%20me-at%20linktree-blue?style=for-the-badge&logo=ethereum&color=black&logoColor=black&logoWidth=40" alt="cafe_pafe" /></a> 
+  
+- 📄 <a href="https://www.linkedin.com/in/moslem-abbasi/" target="blank">
+  <img src="https://img.shields.io/badge/Know%20about%20my%20experiences-LINKEDin-blue?style=for-the-badge&logo=ethereum&color=black&logoColor=black&logoWidth=40" alt="cafe_pafe" /></a> 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/moslem-abbasi/](https://www.linkedin.com/in/moslem-abbasi/)
+- 🌱 <a href="https://github.com/mosi-sol" target="blank">
+  <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20-how%20to%60s%20of%20blockchain%20development%20%26%20reasearch%20about%20the%20smartcontracts-darkgrey?style=for-the-badge&logo=ethereum&color=black&logoColor=black&logoWidth=40" alt="cafe_pafe" /></a> 
 
-- ⚡ Fun fact **we are simuleted :)**
+- ⚡ Fun fact **we are simulated :)**
 
 #
 
-<a href="https://github.com/mosi-sol" target="blank">
-  <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20**how%20to%60s**-of%20blockchain%20development%20%26%20reasearch%20about%20the%20smartcontracts-lightgrey" alt="cafe_pafe" /></a> 
+
 
 #
 
