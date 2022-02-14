@@ -19,7 +19,10 @@
 - ⚡ Fun fact **we are simuleted :)**
 
 #
-https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20**how%20to%60s**-of%20blockchain%20development%20%26%20reasearch%20about%20the%20smartcontracts-lightgrey
+
+<a href="https://github.com/mosi-sol" target="blank">
+  <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20**how%20to%60s**-of%20blockchain%20development%20%26%20reasearch%20about%20the%20smartcontracts-lightgrey" alt="cafe_pafe" /></a> 
+
 #
 
 <h3 align="center">Connect with me:</h3>
