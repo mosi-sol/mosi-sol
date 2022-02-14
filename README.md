@@ -33,5 +33,5 @@
 
 ##
 <p align="right"> 
-  <a href="https://github.com/mosi-sol" target="blank"><img src="https://img.shields.io/badge/solidity%20career-2017--2022-blueviolet" alt="cafe_pafe" /></a>  
+  <a href="https://github.com/mosi-sol" target="blank"><img src="https://img.shields.io/badge/solidity%20career-2017--2022-blueviolet?style=social&logo=github" alt="cafe_pafe" /></a>  
 </p>
