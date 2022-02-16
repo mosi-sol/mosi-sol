@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20working%20on-teach%20solidity%20for%20free%20in%20farsi%20language-blue?style=for-the-badge&logo=ethereum&color=black&logoColor=black&logoWidth=40" alt="cafe_pafe" /></a> 
 <br />
 <a href="https://github.com/mosi-sol" target="blank">
-  <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20-how%20to%60s%20of%20blockchain%20development%20%26%20reasearch%20about%20the%20smartcontracts-darkgrey?style=for-the-badge&logo=ethereum&color=black&logoColor=black&logoWidth=40" alt="cafe_pafe" /></a> 
+  <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20-how%20to%60s%20of%20smartcontract%20development%20%26%20reasearch%20about%20the%20blockchain-darkgrey?style=for-the-badge&logo=ethereum&color=black&logoColor=black&logoWidth=40" alt="cafe_pafe" /></a> 
 
 #
 
