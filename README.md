@@ -50,6 +50,12 @@
 
 
 <p align="right"> 
-  <a href="https://github.com/mosi-sol" target="blank">
+  <span>
+    <a href="https://github.com/mosi-sol" target="blank">
     <img src="https://img.shields.io/badge/Fun%20fact-we%20are%20simulated%20%3A)-blue?style=flat" alt="cafe_pafe" /></a>  
+  </span>
+  <span>
+    <a href="https://github.com/mosi-sol" target="blank">
+    <img src="https://img.shields.io/badge/Fun%20fact-i%20living%20on%20mars%20%3A)-blue?style=flat" alt="cafe_pafe" /></a>  
+  </span>
 </p>
