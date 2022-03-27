@@ -35,6 +35,13 @@
 
 #
 
+
+
+### disclaimer
+- all repo : use/build at your own risk
+
+##
+
 <p align="right"> 
 <span>
 <a href="https://github.com/investpedia" target="blank">
@@ -47,9 +54,6 @@
     <a href="https://github.com/mosi-sol" target="blank"><img src="https://img.shields.io/badge/solidity%20career-2017--2022-blueviolet?style=social&logo=github&logoColor=blueviolet&labelColor=e1e1e1&Color=345" alt="cafe_pafe" /></a>  
 </span>
 </p>
-
-### disclaimer
-- all repo : use/build at your own risk
 
 <p align="right"> 
   <span>
