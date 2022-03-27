@@ -39,6 +39,10 @@
 
 ### disclaimer
 - all repo : use/build at your own risk
+### attention / warnings
+- not financial advice at all, never ever.
+- learning about the solidity on my youtube / instagram / twitter / etc is always free.
+- i am not tell/ask you about the money for vip or role base learning.....
 
 ##
 
