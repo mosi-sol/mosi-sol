@@ -48,6 +48,8 @@
 </span>
 </p>
 
+### disclaimer
+- all repo : use/build at your own risk
 
 <p align="right"> 
   <span>
