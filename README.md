@@ -77,7 +77,7 @@
 
 ---
 
-Top Repositories: 
+**Top Repositories:** 
 [ERC20](https://github.com/mosi-sol/erc20) - 
 [ERC721](https://github.com/mosi-sol/erc721) - 
 [5 Minutes](https://github.com/mosi-sol/5min) - 
