@@ -42,7 +42,8 @@
 [ERC721](https://github.com/mosi-sol/erc721) - 
 [5 Minutes](https://github.com/mosi-sol/5min) - 
 [NFT Wallet](https://github.com/mosi-sol/NftWallet) - 
-[Live Contract](https://github.com/mosi-sol/live-contracts)
+[Live Contract](https://github.com/mosi-sol/live-contracts) -
+[ZeroKnowledge Proof Example](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) 
 
 #
 
