@@ -31,6 +31,21 @@
 
 #
 
+<div>
+<a href="https://www.producthunt.com/posts/nft-decentralized-safe-wallet?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nft&#0045;decentralized&#0045;safe&#0045;wallet" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=337357&theme=dark" alt="NFT&#0032;Decentralized&#0032;Safe&#0032;Wallet - solidity&#0044;&#0032;smart&#0032;contract&#0044;&#0032;ui&#0044;&#0032;ux&#0044;&#0032;nft&#0044;&#0032;wallet | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</div>
+
+---
+
+**Top Repositories:** 
+[ERC20](https://github.com/mosi-sol/erc20) - 
+[ERC721](https://github.com/mosi-sol/erc721) - 
+[5 Minutes](https://github.com/mosi-sol/5min) - 
+[NFT Wallet](https://github.com/mosi-sol/NftWallet) - 
+[Live Contract](https://github.com/mosi-sol/live-contracts)
+
+#
+
 ### disclaimer
 - all repo : use/build at your own risk
 ### attention / warnings
@@ -63,17 +78,3 @@
     <img src="https://img.shields.io/badge/Fun%20fact-i%20living%20on%20mars%20%3A)-blue?style=flat" alt="cafe_pafe" /></a>  
   </span>
 </p>
-
----
-<div>
-<a href="https://www.producthunt.com/posts/nft-decentralized-safe-wallet?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nft&#0045;decentralized&#0045;safe&#0045;wallet" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=337357&theme=dark" alt="NFT&#0032;Decentralized&#0032;Safe&#0032;Wallet - solidity&#0044;&#0032;smart&#0032;contract&#0044;&#0032;ui&#0044;&#0032;ux&#0044;&#0032;nft&#0044;&#0032;wallet | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</div>
-
----
-
-**Top Repositories:** 
-[ERC20](https://github.com/mosi-sol/erc20) - 
-[ERC721](https://github.com/mosi-sol/erc721) - 
-[5 Minutes](https://github.com/mosi-sol/5min) - 
-[NFT Wallet](https://github.com/mosi-sol/NftWallet) - 
-[Live Contract](https://github.com/mosi-sol/live-contracts)
