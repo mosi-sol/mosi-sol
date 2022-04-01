@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mosi</h1>
-<h2 align="center">A solidity smartcontract developer from the earth :)</h2>
+<h4 align="center">A solidity smartcontract developer from the earth :)</h4>
 
 <p align="center"> 
   <a href="https://twitter.com/cafe_pafe" target="blank"><img src="https://img.shields.io/twitter/follow/cafe_pafe?logo=twitter&style=plastic&labelColor=334455" alt="cafe_pafe" /></a> 
