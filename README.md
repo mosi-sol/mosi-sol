@@ -54,7 +54,7 @@
 #
 
 ### disclaimer
-- all repo : use/build at your own risk
+- all repo : ``use/build at your own risk``
 ### attention / warnings
 - not financial advice at all, never ever.
 - learning about the solidity on my youtube / instagram / twitter / etc is always free.
