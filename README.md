@@ -44,7 +44,7 @@
 [NFT Wallet](https://github.com/mosi-sol/NftWallet) - 
 [Live Contract](https://github.com/mosi-sol/live-contracts) 
 
-**Top Contract**
+**Top Contract:**
 [ZeroKnowledge Proof Example](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) - 
 [Token Swap](https://github.com/mosi-sol/erc20/tree/main/tokenSwap) - 
 [ERC20 From Scratch](https://github.com/mosi-sol/erc20/tree/main/from%20scratch) - 
