@@ -60,7 +60,7 @@
 
 ### disclaimer
 - all repo : ``use/build at your own risk``
-- all repo : `have own readme / documene`
+- all repo : `have own readme / document`
 
 ### attention / warnings
 - not financial advice at all, never ever.
