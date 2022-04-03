@@ -49,7 +49,12 @@
 [Token Swap](https://github.com/mosi-sol/erc20/tree/main/tokenSwap) - 
 [ERC20 From Scratch](https://github.com/mosi-sol/erc20/tree/main/from%20scratch) - 
 [Random Dice](https://github.com/mosi-sol/live-contracts/tree/main/episode-16) - 
-[NFT with Royality](https://github.com/mosi-sol/erc721/tree/main/v5)
+[NFT with Royality](https://github.com/mosi-sol/erc721/tree/main/v5) 
+
+**Pattern's:**
+[Proxy Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
+[Factory Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-3) - 
+[Hash Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-15) 
 
 #
 
