@@ -52,6 +52,9 @@
 [Random Dice](https://github.com/mosi-sol/live-contracts/tree/main/episode-16) - 
 [NFT with Royality](https://github.com/mosi-sol/erc721/tree/main/v5) 
 
+**Usefull Contract:**
+[NFT Staking with Reward](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) 
+
 **Pattern's:**
 [Proxy Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
 [Factory Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-3) - 
