@@ -62,7 +62,8 @@
 [Hash Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-15) 
 
 **Document's:**
-[DEFi2 & ZKProof](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) 
+[DEFi2 & ZKProof](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
+[Secure Transaction](https://github.com/mosi-sol/ZK/blob/main/README.md) 
 
 #
 
