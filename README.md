@@ -54,7 +54,8 @@
 [NFT with Royality](https://github.com/mosi-sol/erc721/tree/main/v5) 
 
 **Usefull Contract:**
-[NFT Staking with Reward](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) 
+[NFT Staking with Reward](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
+[NFT English Auction](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) 
 
 **Pattern's:**
 [Proxy Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
