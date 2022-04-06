@@ -77,6 +77,12 @@
 - learning about the solidity on my youtube / instagram / twitter / etc is always free.
 - i am not tell/ask you about the money for vip or role base learning.....
 
+### important atention
+`
+ All codes for education perpuses and has not been professionally audited,
+ therefore I cannot make any promises about safety or correctness. Use at own risk.
+`
+
 ##
 
 <p align="right"> 
