@@ -71,6 +71,10 @@
 [***ELECTION***](https://github.com/mosi-sol/Election) 
 
 #
+**Do not say something that you can not do**
+
+**Don't *stay*, do it!**
+#
 
 ### disclaimer
 - all repo : ``use/build at your own risk``
