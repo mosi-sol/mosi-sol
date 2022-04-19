@@ -74,7 +74,7 @@
 [***ELECTION***](https://github.com/mosi-sol/Election) 
 
 **The Manifest:**
-[Siltopia Insider]() 
+[Soltopia Insider]() 
 
 #
 
