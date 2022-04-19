@@ -73,7 +73,7 @@
 **Latest Project's:**
 [***ELECTION***](https://github.com/mosi-sol/Election) 
 
-**Last Manifest:**
+**The Manifest:**
 [Siltopia Insider]() 
 
 #
