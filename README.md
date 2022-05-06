@@ -73,7 +73,8 @@
 
 **Document's:**
 [DEFi2 & ZKProof](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
-[Secure Transaction](https://github.com/mosi-sol/ZK/blob/main/README.md) 
+[Secure Transaction](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
+[Startup Pathway](https://github.com/mosi-sol/startup) 
 
 **Latest Project's:**
 [***ELECTION***](https://github.com/mosi-sol/Election) 
