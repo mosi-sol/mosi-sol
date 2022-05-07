@@ -78,7 +78,7 @@
 
 **Latest Project's:**
 [***ELECTION***](https://github.com/mosi-sol/Election) - 
-[Incoterms](https://github.com/mosi-sol/incoterms) {mock}
+[Incoterms {mock}](https://github.com/mosi-sol/incoterms) 
 
 **The Manifest:**
 [Soltopia Insider]() 
