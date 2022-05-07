@@ -77,7 +77,8 @@
 [Startup Pathway](https://github.com/mosi-sol/startup) 
 
 **Latest Project's:**
-[***ELECTION***](https://github.com/mosi-sol/Election) 
+[***ELECTION***](https://github.com/mosi-sol/Election) - 
+[Incoterms](https://github.com/mosi-sol/incoterms) {mock}
 
 **The Manifest:**
 [Soltopia Insider]() 
