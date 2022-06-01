@@ -83,6 +83,9 @@
 **The Manifest:**
 [Soltopia Insider]() 
 
+**Simple Dapps**
+[ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) - 
+
 #
 
 ### disclaimer
