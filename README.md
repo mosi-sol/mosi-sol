@@ -69,7 +69,8 @@
 **Pattern's:**
 [Proxy Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
 [Factory Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-3) - 
-[Hash Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-15) 
+[Hash Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-15) - 
+[Tokenamize Pattern](https://github.com/mosi-sol/live-contracts-s2/tree/main/17-Tokenamize%20simulation) 
 
 **Document's:**
 [DEFi2 & ZKProof](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
@@ -78,8 +79,7 @@
 
 **Latest Project's:**
 [***ELECTION***](https://github.com/mosi-sol/Election) - 
-[Incoterms {mock}](https://github.com/mosi-sol/incoterms) - 
-[Tokenamize Pattern](https://github.com/mosi-sol/live-contracts-s2/tree/main/17-Tokenamize%20simulation) 
+[Incoterms {mock}](https://github.com/mosi-sol/incoterms) 
 
 **The Manifest:**
 [Soltopia Insider]() 
