@@ -78,7 +78,8 @@
 
 **Latest Project's:**
 [***ELECTION***](https://github.com/mosi-sol/Election) - 
-[Incoterms {mock}](https://github.com/mosi-sol/incoterms) 
+[Incoterms {mock}](https://github.com/mosi-sol/incoterms) - 
+[Tokenamize Pattern](https://github.com/mosi-sol/live-contracts-s2/tree/main/17-Tokenamize%20simulation) 
 
 **The Manifest:**
 [Soltopia Insider]() 
