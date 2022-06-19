@@ -65,7 +65,7 @@
 **Usefull Contract:**
 [NFT Staking with Reward](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
 [NFT English Auction](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) - 
-[ERC20 from scratch](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) 
+[ERC20 - upgrade v1](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) 
 
 **Pattern's:**
 [Proxy Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
