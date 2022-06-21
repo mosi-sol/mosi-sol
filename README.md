@@ -80,8 +80,9 @@
 **Latest Project's:**
 [***ELECTION***](https://github.com/mosi-sol/Election) - 
 [Incoterms {mock}](https://github.com/mosi-sol/incoterms) - 
-[ERC20 upgrade v1](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) -
-[Multisig Wallet](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) 
+[ERC20 upgrade v1](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) - 
+[Multisig Wallet](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
+[*Crowd Funding*](https://github.com/mosi-sol/live-contracts-s2/tree/main/20-Crowd%20Fund%20Raising%20-%20part%201) 
 
 **The Manifest:**
 [Soltopia Insider]() 
