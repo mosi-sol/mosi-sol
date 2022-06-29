@@ -60,8 +60,6 @@
 
 **Top Contract:**
 [ZeroKnowledge Proof Example](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) - 
-[Token Swap](https://github.com/mosi-sol/erc20/tree/main/tokenSwap) - 
-[ERC20 From Scratch](https://github.com/mosi-sol/erc20/tree/main/from%20scratch) - 
 [Random Dice](https://github.com/mosi-sol/live-contracts/tree/main/episode-16) - 
 
 **Pattern's:**
@@ -93,6 +91,7 @@
 
 **Usefull For ERC20:**
 [Multisig Wallet](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
+[Token Swap](https://github.com/mosi-sol/erc20/tree/main/tokenSwap) - 
 [*Crowd Funding*](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) 
 
 **Latest Project's:**
