@@ -50,7 +50,7 @@
 **Top Repositories:** 
 [ERC20](https://github.com/mosi-sol/erc20) - 
 [ERC721](https://github.com/mosi-sol/erc721) - 
-[5 MINUTES](https://github.com/mosi-sol/5min) - 
+[5 MINUTES](https://github.com/mosi-sol/5min) 
 
 **STREAM SERIE's:**
 [SEASON 1](https://github.com/mosi-sol/live-contracts) - 
@@ -58,7 +58,7 @@
 [SEASON 3](https://github.com/mosi-sol/live-contract-s3) 
 
 **ERC20:**
-[FROM SCRATCH 1](https://github.com/mosi-sol/erc20/tree/main/from%20scratch)
+[FROM SCRATCH 1](https://github.com/mosi-sol/erc20/tree/main/from%20scratch) - 
 [FROM SCRATCH 2](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) 
 
 **ERC721:**
