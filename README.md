@@ -88,7 +88,7 @@
 [Multisig Wallet](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
 [*Crowd Funding*](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) 
 
-**Social WEB3 Media
+**Social WEB3 Media:**
 [Chatroom](https://github.com/mosi-sol/live-contracts-s2/tree/main/23-Simple-Socialmedia) - 
 [BLOG](https://github.com/mosi-sol/live-contract-s3/tree/main/01-Web3%20Blog) 
 
