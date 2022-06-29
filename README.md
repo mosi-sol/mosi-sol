@@ -53,7 +53,6 @@
 [5 Minutes](https://github.com/mosi-sol/5min) - 
 [NFT Wallet](https://github.com/mosi-sol/NftWallet) 
 
-
 **Live Stream Contracts:** 
 [Live Contract s1](https://github.com/mosi-sol/live-contracts) - 
 [Live Contract s2](https://github.com/mosi-sol/live-contracts-s2) - 
@@ -64,11 +63,6 @@
 [Token Swap](https://github.com/mosi-sol/erc20/tree/main/tokenSwap) - 
 [ERC20 From Scratch](https://github.com/mosi-sol/erc20/tree/main/from%20scratch) - 
 [Random Dice](https://github.com/mosi-sol/live-contracts/tree/main/episode-16) - 
-[NFT with Royality](https://github.com/mosi-sol/erc721/tree/main/v5) 
-
-**Usefull Contract:**
-[NFT Staking with Reward](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
-[NFT English Auction](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) 
 
 **Pattern's:**
 [Proxy Pattern](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
@@ -81,12 +75,29 @@
 [Secure Transaction](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
 [Startup Pathway](https://github.com/mosi-sol/startup) 
 
+**ERC721 - NFT:**
+[NFT Ver1](https://github.com/mosi-sol/erc721/tree/main/v1) -
+[NFT Ver2](https://github.com/mosi-sol/erc721/tree/main/v2) -
+[NFT Ver3](https://github.com/mosi-sol/erc721/tree/main/v3) -
+[NFT Ver4](https://github.com/mosi-sol/erc721/tree/main/v4) -
+[NFT Ver5 Royality](https://github.com/mosi-sol/erc721/tree/main/v5) -
+[NFT Ver6](https://github.com/mosi-sol/erc721/tree/main/v6) 
+
+**Usefull For NFT's :**
+[NFT Staking with Reward](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
+[NFT English Auction](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) 
+
+**ERC20 token's:**
+[ERC20 upgrade v1](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) - 
+[ERC20 From Scratch](https://github.com/mosi-sol/erc20/tree/main/from%20scratch) 
+
+**Usefull For ERC20:**
+[Multisig Wallet](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
+[*Crowd Funding*](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) 
+
 **Latest Project's:**
 [***ELECTION***](https://github.com/mosi-sol/Election) - 
 [Incoterms {mock}](https://github.com/mosi-sol/incoterms) - 
-[ERC20 upgrade v1](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) - 
-[Multisig Wallet](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
-[*Crowd Funding*](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) 
 
 **Social WEB3 Media:**
 [Chatroom](https://github.com/mosi-sol/live-contracts-s2/tree/main/23-Simple-Socialmedia) - 
@@ -97,6 +108,7 @@
 
 **Simple Dapps**
 [ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) - 
+
 
 #
 
