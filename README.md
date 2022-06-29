@@ -53,7 +53,7 @@
 [5 Minutes](https://github.com/mosi-sol/5min) - 
 [NFT Wallet](https://github.com/mosi-sol/NftWallet) 
 
-**Live Stream Contracts:** 
+**Live Stream Series:** 
 [Live Contract s1](https://github.com/mosi-sol/live-contracts) - 
 [Live Contract s2](https://github.com/mosi-sol/live-contracts-s2) - 
 [Live Contract s3](https://github.com/mosi-sol/live-contract-s3) 
