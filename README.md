@@ -98,6 +98,9 @@
 [CHATROOM](https://github.com/mosi-sol/live-contracts-s2/tree/main/23-Simple-Socialmedia) - 
 [MICRO-BLOG](https://github.com/mosi-sol/live-contract-s3/tree/main/01-Web3%20Blog) 
 
+**LIBRARIES:**
+[STRING](https://github.com/mosi-sol/live-contracts/tree/main/episode-18) 
+
 **RESEARCHE's:**
 [DEFI 2 & ZK-PROOF](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
 [SECURE TRANSACTION](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
