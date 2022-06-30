@@ -132,6 +132,9 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github-dark&showIcons=false)](https://git.io/awesome-stats-card)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contract-s3)](https://github.com/mosi-sol/live-contract-s3)
+
 ## 
 
 <p align="right"> 
