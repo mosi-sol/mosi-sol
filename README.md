@@ -129,6 +129,11 @@
 
 ##
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github-dark&showIcons=false)](https://git.io/awesome-stats-card)
+
+## 
+
 <p align="right"> 
 <span>
 <a href="https://github.com/investpedia" target="blank">
