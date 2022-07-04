@@ -64,12 +64,7 @@
 [FROM SCRATCH 2](https://github.com/mosi-sol/erc20/tree/main/ERC20-finalize) 
 
 **ERC721:**
-[NFT VER 1](https://github.com/mosi-sol/erc721/tree/main/v1) - 
-[NFT VER 2](https://github.com/mosi-sol/erc721/tree/main/v2) - 
-[NFT VER 3](https://github.com/mosi-sol/erc721/tree/main/v3) - 
-[NFT VER 4](https://github.com/mosi-sol/erc721/tree/main/v4) - 
-[NFT VER 5 ROYALITY](https://github.com/mosi-sol/erc721/tree/main/v5) - 
-[NFT VER 6](https://github.com/mosi-sol/erc721/tree/main/v6) 
+[NFT 6 VERSION's](https://github.com/mosi-sol/erc721) - 
 
 **NFT USEFUL's:**
 [NFT WALLET](https://github.com/mosi-sol/NftWallet) - 
