@@ -65,6 +65,7 @@
 
 **ERC721:**
 [NFT 6 VERSION's](https://github.com/mosi-sol/erc721) - 
+[FULLY FUNCTIONAL NFT](https://github.com/mosi-sol/nft-erc721) 
 
 **NFT USEFUL's:**
 [NFT WALLET](https://github.com/mosi-sol/NftWallet) - 
