@@ -98,7 +98,9 @@
 [MICRO-BLOG](https://github.com/mosi-sol/live-contract-s3/tree/main/01-Web3%20Blog) 
 
 **LIBRARIES:**
-[STRING](https://github.com/mosi-sol/live-contracts/tree/main/episode-18) 
+[STRING](https://github.com/mosi-sol/live-contracts/tree/main/episode-18) - 
+[MATH](https://github.com/mosi-sol/nft-erc721/blob/main/Contracts/FULL-MATH.sol) - 
+[OWNABLE](https://github.com/mosi-sol/nft-erc721/blob/main/Contracts/OWNABLE.sol) 
 
 **RESEARCHE's:**
 [DEFI 2 & ZK-PROOF](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
