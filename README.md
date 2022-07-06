@@ -107,6 +107,9 @@
 [SECURE TRANSACTION](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
 [STARTUP INFO](https://github.com/mosi-sol/startup) 
 
+**LATEST:**
+[TOKENIZED REAL SHOP](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) 
+
 **SIMPLE DAPP's:**
 [ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) 
 
