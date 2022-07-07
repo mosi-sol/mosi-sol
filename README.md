@@ -101,7 +101,8 @@
 [STRING](https://github.com/mosi-sol/live-contracts/tree/main/episode-18) - 
 [MATH](https://github.com/mosi-sol/nft-erc721/blob/main/Contracts/FULL-MATH.sol) - 
 [OWNABLE](https://github.com/mosi-sol/nft-erc721/blob/main/Contracts/OWNABLE.sol) - 
-[SHORT HAND](https://github.com/mosi-sol/5min/tree/main/06-Shorthand) 
+[SHORT HAND](https://github.com/mosi-sol/5min/tree/main/06-Shorthand) - 
+[IERC LIB](https://github.com/mosi-sol/5min/tree/main/07-IERC%20Lib)
 
 **RESEARCHE's:**
 [DEFI 2 & ZK-PROOF](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
