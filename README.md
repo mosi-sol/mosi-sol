@@ -70,7 +70,8 @@
 **NFT USEFUL's:**
 [NFT WALLET](https://github.com/mosi-sol/NftWallet) - 
 [STAKING & REWARD](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
-[ENGLISH AUCTION](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) 
+[ENGLISH AUCTION](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) - 
+[NFT FOR MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) 
 
 **ERC20 USEFUL's:**
 [MULTISIG WALLET](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
