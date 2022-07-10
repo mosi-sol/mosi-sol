@@ -110,7 +110,8 @@
 [STARTUP INFO](https://github.com/mosi-sol/startup) 
 
 **LATEST:**
-[TOKENIZED REAL SHOP](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) 
+[TOKENIZED REAL SHOP](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
+[NFT FOR MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) 
 
 **SIMPLE DAPP's:**
 [ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) 
