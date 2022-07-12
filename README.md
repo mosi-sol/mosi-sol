@@ -121,6 +121,20 @@
 
 #
 
+**DEFI's:**
+[SWAP](https://github.com/mosi-sol/live-contract-s3/tree/main/02-Swap%20No%20Fee) - 
+[CROWD FUNDING](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) - 
+[ESCROW](https://github.com/mosi-sol/live-contracts/tree/main/episode-21) - 
+[WRAPPED](https://github.com/mosi-sol/live-contract-s3/tree/main/08-Wraped%20Token) - 
+[MULTISIG](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
+[AUCTION](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) - 
+[MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) - 
+[TOKENIZE](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
+[STAKING](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
+[INCOTERMS](https://github.com/mosi-sol/incoterms) 
+
+#
+
 ### disclaimer
 - all repo : ``use/build at your own risk``
 - all repo : `have own readme / document`
