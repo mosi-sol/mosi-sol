@@ -77,7 +77,8 @@
 [MULTISIG WALLET](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
 [TOKEN SWAP](https://github.com/mosi-sol/erc20/tree/main/tokenSwap) - 
 [SWAP WITH NO FEE](https://github.com/mosi-sol/live-contract-s3/tree/main/02-Swap%20No%20Fee) - 
-[CROWD FUNRAISING](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) 
+[CROWD FUNRAISING](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) - 
+[WRAPPED TOKEN](https://github.com/mosi-sol/live-contract-s3/tree/main/08-Wraped%20Token) 
 
 **PATTERN's:**
 [PROXY](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
