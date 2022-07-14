@@ -118,7 +118,8 @@
 
 **WALLET:**
 [GENERATOR | Ver1](https://github.com/mosi-sol/5min/tree/main/08-Wallet%20Address%20Generator) - 
-[GENERATOR | Ver2](https://github.com/mosi-sol/5min/tree/main/09-Wallet%20Address%20Generator%20-%20nmemonic) 
+[GENERATOR | Ver2](https://github.com/mosi-sol/5min/tree/main/09-Wallet%20Address%20Generator%20-%20nmemonic) - 
+[RECOVER WALLET](https://github.com/mosi-sol/5min/tree/main/10-Recover%20Wallet%20by%20seed) 
 
 **SIMPLE DAPP's:**
 [ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) 
