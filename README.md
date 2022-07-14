@@ -116,9 +116,12 @@
 [TOKENIZED REAL SHOP](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
 [NFT FOR MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) 
 
+**WALLET:**
+[WALLET ADDRESS GENERATOR - ver1](https://github.com/mosi-sol/5min/tree/main/08-Wallet%20Address%20Generator) - 
+[WALLET ADDRESS GENERATOR - ver2](https://github.com/mosi-sol/5min/tree/main/09-Wallet%20Address%20Generator%20-%20nmemonic) 
+
 **SIMPLE DAPP's:**
-[ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) - 
-[WALLET ADDRESS GENERATOR](https://github.com/mosi-sol/5min/tree/main/08-Wallet%20Address%20Generator) 
+[ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) 
 
 #
 
