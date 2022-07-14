@@ -117,7 +117,8 @@
 [NFT FOR MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) 
 
 **SIMPLE DAPP's:**
-[ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) 
+[ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) - 
+[WALLET ADDRESS GENERATOR](https://github.com/mosi-sol/5min/tree/main/08-Wallet%20Address%20Generator) 
 
 #
 
