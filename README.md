@@ -120,10 +120,12 @@
 [GENERATOR | Ver1](https://github.com/mosi-sol/5min/tree/main/08-Wallet%20Address%20Generator) - 
 [GENERATOR | Ver2](https://github.com/mosi-sol/5min/tree/main/09-Wallet%20Address%20Generator%20-%20nmemonic) - 
 [RECOVER WALLET](https://github.com/mosi-sol/5min/tree/main/10-Recover%20Wallet%20by%20seed) - 
-[MORE...](https://gist.github.com/mosi-sol/70648c384e5a308f53d0ba7d3cdf0291) 
+[MORE...](https://gist.github.com/mosi-sol/70648c384e5a308f53d0ba7d3cdf0291) - 
+[WALLET GENERATOR DAPP](https://github.com/mosi-sol/live-contract-s3/tree/main/09-%20Wallet%20Generator%20Dapp) 
 
 **SIMPLE DAPP's:**
-[ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) 
+[ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) - 
+[WWALLET GENERATOR DEMO](https://mosi-sol.github.io/Wallet-Web3/) 
 
 #
 
