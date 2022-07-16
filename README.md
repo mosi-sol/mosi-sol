@@ -125,7 +125,7 @@
 
 **SIMPLE DAPP's:**
 [ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) - 
-[WWALLET GENERATOR DEMO](https://mosi-sol.github.io/Wallet-Web3/) 
+[WALLET GENERATOR DEMO](https://mosi-sol.github.io/Wallet-Web3/) 
 
 #
 
