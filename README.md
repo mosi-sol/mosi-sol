@@ -114,7 +114,8 @@
 
 **LATEST:**
 [TOKENIZED REAL SHOP](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
-[NFT FOR MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) 
+[NFT FOR MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) - 
+[DECENTRALIZED BANK VAULT](https://github.com/mosi-sol/live-contract-s3/tree/main/11-%20Decentralized%20Bank%20Vault)  
 
 **WALLET:**
 [GENERATOR | Ver1](https://github.com/mosi-sol/5min/tree/main/08-Wallet%20Address%20Generator) - 
