@@ -78,7 +78,8 @@
 [TOKEN SWAP](https://github.com/mosi-sol/erc20/tree/main/tokenSwap) - 
 [SWAP WITH NO FEE](https://github.com/mosi-sol/live-contract-s3/tree/main/02-Swap%20No%20Fee) - 
 [CROWD FUNRAISING](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) - 
-[WRAPPED TOKEN](https://github.com/mosi-sol/live-contract-s3/tree/main/08-Wraped%20Token) 
+[WRAPPED TOKEN](https://github.com/mosi-sol/live-contract-s3/tree/main/08-Wraped%20Token) - 
+[ICO](https://github.com/mosi-sol/live-contract-s3/tree/main/12-%20ICO) 
 
 **PATTERN's:**
 [PROXY](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - 
@@ -131,6 +132,7 @@
 #
 
 **DEFI's:**
+
 [SWAP](https://github.com/mosi-sol/live-contract-s3/tree/main/02-Swap%20No%20Fee) - 
 [CROWD FUNDING](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) - 
 [ESCROW](https://github.com/mosi-sol/live-contracts/tree/main/episode-21) - 
@@ -140,7 +142,8 @@
 [MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) - 
 [TOKENIZE](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
 [STAKING](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
-[INCOTERMS](https://github.com/mosi-sol/incoterms) 
+[INCOTERMS](https://github.com/mosi-sol/incoterms) - 
+[ICO](https://github.com/mosi-sol/live-contract-s3/tree/main/12-%20ICO) 
 
 #
 
