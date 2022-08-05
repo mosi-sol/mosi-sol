@@ -89,7 +89,8 @@
 [FACTORY](https://github.com/mosi-sol/live-contracts/tree/main/episode-3) - 
 [HASH](https://github.com/mosi-sol/live-contracts/tree/main/episode-15) - 
 [TOKENAMIZE](https://github.com/mosi-sol/live-contracts-s2/tree/main/17-Tokenamize%20simulation) - 
-[CREATE2](https://github.com/mosi-sol/live-contract-s3/tree/main/03-%20Create2) 
+[CREATE2](https://github.com/mosi-sol/live-contract-s3/tree/main/03-%20Create2) - 
+[PROOF OF EXIST (POE)](https://github.com/mosi-sol/live-contract-s3/tree/main/15-Proof%20of%20Exist) 
 
 **USEFUL's:**
 [RANDOM DICE](https://github.com/mosi-sol/live-contracts/tree/main/episode-16) - 
