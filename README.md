@@ -135,7 +135,8 @@
 [DAPP BASIC](https://github.com/mosi-sol/live-contract-s3/tree/main/13-%20Dapp%20infrastructure) 
 
 **PROJECT'S:**
-[ERC20 LEDGER](https://github.com/mosi-sol/erc20/tree/main/Ledger%20ERC20%20Ver1) 
+[ERC20 LEDGER VER1](https://github.com/mosi-sol/erc20/tree/main/Ledger%20ERC20%20Ver1) - 
+[ERC20 LEDGER VER2](https://github.com/mosi-sol/erc20/tree/main/LedgerErc20%20Ver2) 
 
 #
 
