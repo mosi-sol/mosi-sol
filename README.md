@@ -38,6 +38,8 @@
 <a href="https://www.youtube.com/c/pafecafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pafecafe" height="30" width="40" /></a>
 </p>
 
+<p align="center">Buy me a cofee: 0x65D7aA0b674C05ff721F8628404C353be2CA89d4</p>
+
 #
 
 ### [NFT Wallet Lightpapper](https://github.com/mosi-sol/NftWallet/wiki/Light-Papper) 
@@ -157,8 +159,6 @@
 [ICO](https://github.com/mosi-sol/live-contract-s3/tree/main/12-%20ICO) 
 
 #
-
-***Buy me a cofee***: *0x65D7aA0b674C05ff721F8628404C353be2CA89d4*
 
 ### disclaimer
 - all repo : ``use/build at your own risk``
