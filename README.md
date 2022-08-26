@@ -22,7 +22,7 @@
 <br />
 <a href="https://github.com/mosi-sol" target="blank">
   <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20-how%20to%60s%20of%20smartcontract%20development%20%26%20reasearch%20about%20the%20blockchain-darkgrey?style=for-the-badge&logo=ethereum&color=white&logoColor=yellow&logoWidth=40&labelColor=black" alt="cafe_pafe" /></a> 
-<br />
+<br /><br />
 
 **SmartContract Explain:**
 > choose good word, make good world
