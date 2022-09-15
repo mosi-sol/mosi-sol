@@ -100,7 +100,8 @@
 [ELECTION](https://github.com/mosi-sol/Election) - 
 [INCOTERMS & MOCK](https://github.com/mosi-sol/incoterms) - 
 [ESCROW](https://github.com/mosi-sol/live-contracts/tree/main/episode-21) - 
-[SAFE TRANSFER](https://github.com/mosi-sol/live-contracts/tree/main/episode-19) 
+[SAFE TRANSFER](https://github.com/mosi-sol/live-contracts/tree/main/episode-19) - 
+[WHITELIST](https://github.com/mosi-sol/live-contract-s3/tree/main/20-%20Whitelist%20Ver2) 
 
 **SOCIAL WEB3 MEDIA's:**
 [CHATROOM](https://github.com/mosi-sol/live-contracts-s2/tree/main/23-Simple-Socialmedia) - 
