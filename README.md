@@ -6,10 +6,10 @@
 <a href="https://youtube.com/pafecafe" target="blank"><img src="https://img.shields.io/badge/youtube-watch-red/follow/cafe_pafe?logo=youtube&style=plastic&logoColor=red&labelColor=334455" alt="pafecafe" /></a> 
 </p>
 
-> **Do not say something that you can not do**
-> 
-> **Don't *stay*, do it!**
+> **Do not say something that you can not do** **Don't *stay*, do it!**
 
+
+> hope real freedom for all human...
 <br />
 <a href="https://linktr.ee/mosi.sol" target="blank">
   <img src="https://img.shields.io/badge/How%20to%20reach%20me-at%20linktree-blue?style=for-the-badge&logo=ethereum&color=white&logoColor=yellow&logoWidth=40&labelColor=black" alt="cafe_pafe" /></a> 
