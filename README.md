@@ -10,18 +10,15 @@
 
 
 > hope real freedom for all human...
+
 <br />
-<a href="https://linktr.ee/mosi.sol" target="blank">
-  <img src="https://img.shields.io/badge/How%20to%20reach%20me-at%20linktree-blue?style=for-the-badge&logo=ethereum&color=white&logoColor=yellow&logoWidth=40&labelColor=black" alt="cafe_pafe" /></a> 
-  <br />
-<a href="https://www.linkedin.com/in/moslem-abbasi/" target="blank">
-  <img src="https://img.shields.io/badge/Know%20about%20my%20experiences-LINKEDin-blue?style=for-the-badge&logo=ethereum&color=white&logoColor=yellow&logoWidth=40&labelColor=black" alt="cafe_pafe" /></a> 
-  <br />
-<a href="https://youtube.com/pafecafe" target="blank">
-  <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20working%20on-teach%20solidity%20for%20free%20in%20farsi%20language-blue?style=for-the-badge&logo=ethereum&color=white&logoColor=yellow&logoWidth=40&labelColor=black" alt="cafe_pafe" /></a> 
+How to reach me: <a href="https://linktr.ee/mosi.sol" target="blank">Linktree</a> 
 <br />
-<a href="https://github.com/mosi-sol" target="blank">
-  <img src="https://img.shields.io/badge/I%E2%80%99m%20currently%20learning%20-how%20to%60s%20of%20smartcontract%20development%20%26%20reasearch%20about%20the%20blockchain-darkgrey?style=for-the-badge&logo=ethereum&color=white&logoColor=yellow&logoWidth=40&labelColor=black" alt="cafe_pafe" /></a> 
+Know about my experiences: <a href="https://www.linkedin.com/in/moslem-abbasi/" target="blank">Linkedin</a> 
+<br />
+My solidity teaching channel on youtube: <a href="https://youtube.com/pafecafe" target="blank">Pacfe Cafe</a> 
+<br />
+How to development in evm-blockchain's by using solidity: <a href="https://github.com/mosi-sol" target="blank">Mosi-sol</a> 
 <br /><br />
 
 **SmartContract Explain:**
