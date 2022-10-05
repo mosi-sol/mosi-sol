@@ -16,7 +16,7 @@ How to reach me: <a href="https://linktr.ee/mosi.sol" target="blank">Linktree</a
 <br />
 Know about my experiences: <a href="https://www.linkedin.com/in/moslem-abbasi/" target="blank">Linkedin</a> 
 <br />
-My solidity teaching channel on youtube: <a href="https://youtube.com/pafecafe" target="blank">Pacfe Cafe</a> 
+My solidity teaching channel on youtube(farsi): <a href="https://youtube.com/pafecafe" target="blank">Pacfe Cafe</a> 
 <br />
 How to development in evm-blockchain's by using solidity: <a href="https://github.com/mosi-sol" target="blank">Mosi-sol</a> 
 <br /><br />
