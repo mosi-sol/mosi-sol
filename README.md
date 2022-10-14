@@ -16,7 +16,7 @@ How to reach me: <a href="https://linktr.ee/mosi.sol" target="blank">Linktree</a
 <br />
 Know about my experiences: <a href="https://www.linkedin.com/in/moslem-abbasi/" target="blank">Linkedin</a> 
 <br />
-My solidity teaching channel on youtube(farsi): <a href="https://youtube.com/pafecafe" target="blank">Pacfe Cafe</a> 
+My solidity teaching channel on youtube(farsi): <a href="https://youtube.com/pafecafe" target="blank">Pafe Cafe</a> 
 <br />
 How to development in evm-blockchain's by using solidity: <a href="https://github.com/mosi-sol" target="blank">Mosi-sol</a> 
 <br /><br />
@@ -118,7 +118,7 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 [SECURE TRANSACTION](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
 [STARTUP INFO](https://github.com/mosi-sol/startup) 
 
-**BITWISE OPERATOR's**
+**BITWISE OPERATOR's:**
 [SWAP VARIABLE VALUES](https://github.com/mosi-sol/live-contract-s3/tree/main/22-%20Swap%20Value) - 
 [IS EVEN NUMBER](https://github.com/mosi-sol/live-contract-s3/tree/main/23-%20Even%20Number) 
 
