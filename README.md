@@ -37,13 +37,6 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 
 <p align="center">Buy me an ice tea: 0x65D7aA0b674C05ff721F8628404C353be2CA89d4</p>
 
-#
-
-### [NFT Wallet Lightpapper](https://github.com/mosi-sol/NftWallet/wiki/Light-Papper) 
-<div>
-<a href="https://www.producthunt.com/posts/nft-decentralized-safe-wallet?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nft&#0045;decentralized&#0045;safe&#0045;wallet" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=337357&theme=dark" alt="NFT&#0032;Decentralized&#0032;Safe&#0032;Wallet - solidity&#0044;&#0032;smart&#0032;contract&#0044;&#0032;ui&#0044;&#0032;ux&#0044;&#0032;nft&#0044;&#0032;wallet | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</div>
-
 ---
 
 ## content Sheet
