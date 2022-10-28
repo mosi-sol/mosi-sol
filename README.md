@@ -120,6 +120,15 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 [ADD\SUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) - 
 [FIBONACI](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) 
 
+**ALGORITHM's:**
+[LINEAR SEARCH](https://github.com/mosi-sol/live-contracts-s4/tree/main/11-%20Linear%20Search) - 
+[BUBBLE SORT](https://github.com/mosi-sol/live-contracts-s4/tree/main/10-%20Bubble%20Sort) - 
+[FACTORIAL](https://github.com/mosi-sol/live-contracts-s4/tree/main/09-%20Factorial) - 
+[ARMSTRONG NUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/08-%20Armstrong%20Number) - 
+[PERFECT NUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/07-%20Perfect%20Number) - 
+[REVERSE VALUE](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) - 
+[CALCULATE POWER](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) 
+
 **LATEST:**
 [TOKENIZED REAL SHOP](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
 [NFT FOR MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) - 
