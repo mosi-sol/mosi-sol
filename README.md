@@ -119,7 +119,8 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 [ROLE](https://github.com/mosi-sol/live-contracts-s4/tree/main/01-%20Bitwise%20Role) - 
 [HASH ROLE](https://github.com/mosi-sol/live-contracts-s4/tree/main/02-%20Bitwise%20Hash%20Role) - 
 [ADD\SUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) - 
-[FIBONACI](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) 
+[FIBONACI](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) - 
+[AVERAGE](https://github.com/mosi-sol/live-contracts-s4/tree/main/14-%20Bitwise%20Average) 
 
 **ALGORITHM's:**
 [LINEAR SEARCH](https://github.com/mosi-sol/live-contracts-s4/tree/main/11-%20Linear%20Search) - 
