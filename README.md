@@ -108,11 +108,6 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 [SAFE ACTION](https://github.com/mosi-sol/live-contract-s3/tree/main/06-SafeTransfer) - 
 [SAFE PERCENTAGE](https://github.com/mosi-sol/live-contract-s3/tree/main/19-Defi%20Safe%20Percentage) 
 
-**RESEARCHE's:**
-[DEFI 2 & ZK-PROOF](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
-[SECURE TRANSACTION](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
-[STARTUP INFO](https://github.com/mosi-sol/startup) 
-
 **BITWISE OPERATOR's:**
 [SWAP VARIABLE VALUES](https://github.com/mosi-sol/live-contract-s3/tree/main/22-%20Swap%20Value) - 
 [IS EVEN NUMBER](https://github.com/mosi-sol/live-contract-s3/tree/main/23-%20Even%20Number) - 
@@ -172,9 +167,11 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 
 #
 
-**OTHER TRAINING's**
+**RESEARCHE's:**
 [GIT TUT](https://github.com/mosi-sol/Git-Teach) - 
-[STARTUP](https://github.com/mosi-sol/startup) 
+[DEFI 2 & ZK-PROOF](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
+[SECURE TRANSACTION](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
+[STARTUP INFO](https://github.com/mosi-sol/startup) 
 
 #
 
