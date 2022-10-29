@@ -173,7 +173,8 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 #
 
 **OTHER TRAINING's**
-[GIT TUT](https://github.com/mosi-sol/Git-Teach) 
+[GIT TUT](https://github.com/mosi-sol/Git-Teach) - 
+[STARTUP](https://github.com/mosi-sol/startup) 
 
 #
 
