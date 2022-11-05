@@ -191,11 +191,11 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
  All codes for education perpuses and has not been professionally audited,
  therefore I cannot make any promises about safety or correctness. Use at own risk.
 `
+---
 
 ### Democracy Manifesto
-- [farsi/persian](https://github.com/mosi-sol/manifesto/wiki/%D9%85%D8%A7%D9%86%DB%8C%D9%81%D8%B3%D8%AA-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C) 
-- [english](https://github.com/mosi-sol/manifesto/wiki/Democracy-Manifesto) 
 - decentralized democracy like: github, btc
+- wiki -> [here](https://github.com/mosi-sol/manifesto/wiki/Democracy-Manifesto) 
 
 ##
 
