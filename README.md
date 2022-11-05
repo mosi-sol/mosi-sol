@@ -11,6 +11,8 @@
 
 > hope real freedom for all human...
 
+***Ukraine + Iran = 1*** | ***Russia + China = 0***
+
 <br />
 How to reach me: <a href="https://linktr.ee/mosi.sol" target="blank">Linktree</a> 
 <br />
