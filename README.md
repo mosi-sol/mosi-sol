@@ -11,8 +11,6 @@
 
 > hope real freedom for all human...
 
-***Ukraine + Iran = 1*** | ***Russia + China = 0***
-
 <br />
 How to reach me: <a href="https://linktr.ee/mosi.sol" target="blank">Linktree</a> 
 <br />
@@ -194,8 +192,9 @@ How to development in evm-blockchain's by using solidity: <a href="https://githu
 ---
 
 ### Democracy Manifesto
-- decentralized democracy like: github, btc
+- decentralized democracy like: @github , @btc
 - wiki -> [here](https://github.com/mosi-sol/manifesto/wiki/Democracy-Manifesto) 
+- ***Ukraine + Iran = 1*** | ***Russia + China = 0***
 
 ##
 
