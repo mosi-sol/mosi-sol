@@ -12,6 +12,9 @@
 > hope real freedom for all human...
 
 <br />
+<p>i am from iran, live in earth(like you). each technology is filter(censored) here by our gov or your gov! #real</p>
+<p>but i learn, try, practice, and looking for democracy in learning about technology</p>
+<br />
 How to reach me: <a href="https://linktr.ee/mosi.sol" target="blank">Linktree</a> 
 <br />
 Know about my experiences: <a href="https://www.linkedin.com/in/moslem-abbasi/" target="blank">Linkedin</a> 
