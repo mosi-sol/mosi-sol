@@ -23,7 +23,7 @@ My solidity teaching channel on youtube(farsi): <a href="https://youtube.com/paf
 <br />
 How to development in evm-blockchain's by using solidity: <a href="https://github.com/mosi-sol" target="blank">Mosi-sol</a> 
 <br />
-My All Repo: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-sol all repo</a>
+Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-sol latest repo's</a>
 <br /><br />
 
 **SmartContract Explain:**
