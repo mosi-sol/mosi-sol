@@ -199,7 +199,7 @@ Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-s
 ### Democracy Manifesto
 - decentralized democracy like: @github , @btc
 - wiki -> [here](https://github.com/mosi-sol/manifesto/wiki/Democracy-Manifesto) 
-- ***Ukraine + Iran = 1*** | ***Russia + China = 0***
+<!-- - ***Ukraine + Iran = 1*** | ***Russia + China = 0*** -->
 
 ##
 
