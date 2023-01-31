@@ -146,7 +146,8 @@ Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-s
 **SIMPLE DAPP's:**
 [ERC20 DASHBOARD](https://github.com/mosi-sol/ERC20-Dapp) - 
 [WALLET GENERATOR DEMO](https://mosi-sol.github.io/Wallet-Web3/) - 
-[DAPP BASIC](https://github.com/mosi-sol/live-contract-s3/tree/main/13-%20Dapp%20infrastructure) 
+[DAPP BASIC](https://github.com/mosi-sol/live-contract-s3/tree/main/13-%20Dapp%20infrastructure) - 
+[VERIFY SIGNATURE](https://mosi-sol.github.io/VerifySignature/) 
 
 **NEXT GENERATION:**
 [ZK-WITHDRAW](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) - 
