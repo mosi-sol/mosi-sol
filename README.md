@@ -220,7 +220,7 @@ Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-s
  - 
 </span>
 <span>
-    <a href="https://github.com/mosi-sol" target="blank"><img src="https://img.shields.io/badge/solidity%20career-2017--2022-blueviolet?style=social&logo=github&logoColor=blueviolet&labelColor=e1e1e1&Color=345" alt="cafe_pafe" /></a>  
+    <a href="https://github.com/mosi-sol" target="blank"><img src="https://img.shields.io/badge/solidity%20career-2017--2023-blueviolet?style=social&logo=github&logoColor=blueviolet&labelColor=e1e1e1&Color=345" alt="cafe_pafe" /></a>  
 </span>
 </p>
 
