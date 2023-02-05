@@ -235,6 +235,6 @@ Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-s
   </span>
   <span>
     <a href="https://github.com/mosi-sol" target="blank">
-    <img src="https://img.shields.io/badge/This%20account-%20Start%20From%207Feb2022-green?style=flat" alt="cafe_pafe" /></a>  
+    <img src="https://img.shields.io/badge/This%20account-%20Start%20From%207Feb2022-purple?style=flat" alt="cafe_pafe" /></a>  
   </span>
 </p>
