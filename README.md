@@ -40,7 +40,7 @@ Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-s
 <a href="https://www.youtube.com/c/pafecafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pafecafe" height="30" width="40" /></a>
 </p>
 
-<p align="center">Buy me an ice tea: [Danate](https://sol-app.github.io/Donation/) </p>
+<p align="center">Buy me an ice tea: <a href="https://sol-app.github.io/Donation/">Donate</a> </p>
 
 ---
 
