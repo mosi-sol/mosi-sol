@@ -5,7 +5,8 @@ Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/)
 - Latest repo edited [View](https://mosi-arch.github.io/view/) 
 - More tutorial about [Solidity](https://github.com/mosi-sol) 
 - How to reach met [Linktree](https://linktr.ee/mosi.sol) 
-- More info [Read me](https://github.com/mosi-sol/mosi-sol/blob/main/More.md) 
+- Web2 to Web3 [Web3](https://github.com/sol-app) 
+- **More info** [Read me](https://github.com/mosi-sol/mosi-sol/blob/main/More.md) 
 
 <div style="display: inline_block"><br>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Mosi%20sol-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
