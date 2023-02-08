@@ -8,10 +8,20 @@ Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/)
 - Web2 to Web3 [Web3](https://github.com/sol-app) 
 - **More info** [Read me](https://github.com/mosi-sol/mosi-sol/blob/main/More.md) 
 
+<!--
+Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blank"><img src="https://img.shields.io/badge/-Landing%20page-%23ffaa33?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+- Know about my experiences <a href="https://www.linkedin.com/in/moslem-abbasi/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- More tutorial about <a href="https://github.com/mosi-sol" target="_blank"><img src="https://img.shields.io/badge/-Solidity-%23ac77B5?style=for-the-badge&logo=solidity&logoColor=white" target="_blank"></a> 
+- How to reach met <a href="https://linktr.ee/mosi.sol" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%235599B5?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
+- Latest repo edited <a href="https://mosi-arch.github.io/view/" target="_blank"><img src="https://img.shields.io/badge/-View-%23334455?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+- Web2 to Web3 <a href="https://github.com/sol-app" target="_blank"><img src="https://img.shields.io/badge/-Web3-%23997700?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a> 
+- **More info** <a href="https://github.com/mosi-sol/mosi-sol/blob/main/More.md" target="_blank"><img src="https://img.shields.io/badge/-Read%20me-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+-->
+
 <div style="display: inline_block"><br>
     <a href="https://github.com/mosi-sol" target="_blank"><img src="https://img.shields.io/badge/-Mosi%20sol-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/mosi-sol/live-contracts-s4" target="_blank"><img src="https://img.shields.io/badge/-Solidity-9077B5?style=for-the-badge&logo=solidity&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/mosi-sol/mosi-sol/blob/main/More.md" target="_blank"><img src="https://img.shields.io/badge/-Ethereum-909090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a> 
+    <a href="https://github.com/mosi-sol/mosi-sol/blob/main/More.md" target="_blank"><img src="https://img.shields.io/badge/-Read%20more-909090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a> 
     <!-- <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://img.shields.io/badge/-9077B5?style=for-the-badge&logo=solidity&logoColor=white" /></a> -->
     <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://simpleicons.org/icons/solidity.svg" /></a>
     
@@ -35,3 +45,5 @@ Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/)
 ##
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
+<a href="https://github.com/mosi-sol"><img src="https://img.shields.io/badge/Mosi--sol-2023-lightgrey?style=social&logo=github" /></a>
+<a href="https://sol-app.github.io/Donation/"><img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-gray?style=plastic&logo=java" /></a>
