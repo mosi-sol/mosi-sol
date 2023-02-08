@@ -206,9 +206,7 @@ Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-s
 
 ##
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=github&theme=github-dark)](https://github.com/mosi-sol)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github-dark&showIcons=false)](https://github.com/mosi-sol)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github&preferLogin=false&Ring=8B4BDD&Title=8F51DD)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol)
 
 ## 
