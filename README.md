@@ -12,7 +12,9 @@ Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/)
     <a href="https://github.com/mosi-sol" target="_blank"><img src="https://img.shields.io/badge/-Mosi%20sol-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/mosi-sol/live-contracts-s4" target="_blank"><img src="https://img.shields.io/badge/-Solidity-9077B5?style=for-the-badge&logo=solidity&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/mosi-sol/mosi-sol/blob/main/More.md" target="_blank"><img src="https://img.shields.io/badge/-Ethereum-909090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a> 
-    <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://img.shields.io/badge/-9077B5?style=for-the-badge&logo=solidity&logoColor=white" /></a>
+    <!-- <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://img.shields.io/badge/-9077B5?style=for-the-badge&logo=solidity&logoColor=white" /></a> -->
+    <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://simpleicons.org/icons/solidity.svg" /></a>
+    
 </div>
     
 ##
