@@ -1,12 +1,12 @@
 ## What is blockchain technology, evm, solidity, smartcontract...
 
-Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/) 
-- Know about my experiences [Linkedin](https://www.linkedin.com/in/moslem-abbasi/) 
-- Latest repo edited [View](https://mosi-arch.github.io/view/) 
-- More tutorial about [Solidity](https://github.com/mosi-sol) 
-- How to reach met [Linktree](https://linktr.ee/mosi.sol) 
-- Web2 to Web3 [Web3](https://github.com/sol-app) 
-- **More info** [Read me](https://github.com/mosi-sol/mosi-sol/blob/main/More.md) 
+:pushpin:Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/) 
+- Know about my experiences [Linkedin](https://www.linkedin.com/in/moslem-abbasi/) :pencil2:
+- Latest repo edited [View](https://mosi-arch.github.io/view/) :notebook:
+- More tutorial about [Solidity](https://github.com/mosi-sol) :paperclip:
+- How to reach met [Linktree](https://linktr.ee/mosi.sol) :bookmark:
+- Web2 to Web3 [Web3](https://github.com/sol-app) :chart_with_upwards_trend:
+- **More info** [Read me](https://github.com/mosi-sol/mosi-sol/blob/main/More.md) :books:
 
 <!--
 Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blank"><img src="https://img.shields.io/badge/-Landing%20page-%23ffaa33?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
