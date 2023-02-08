@@ -29,3 +29,7 @@ Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) 
 <br />
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github&preferLogin=false&Ring=8B4BDD&Title=8F51DD)](https://git.io/awesome-stats-card)
+
+##
+
+![License](https://img.shields.io/badge/License-MIT-blue)
