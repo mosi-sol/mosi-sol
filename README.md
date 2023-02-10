@@ -1,7 +1,7 @@
 ## What is blockchain technology, evm, solidity, smartcontract...
 
 :pushpin:Popular repositories [Landing page](https://sol-app.github.io/mosi-sol/) 
-- My Web3 Resume [Resume](https://sol-app.github.io/resume/) 
+- My Web3 Resume [Resume](https://sol-app.github.io/resume/) :book:
 - Know about my experiences [Linkedin](https://www.linkedin.com/in/moslem-abbasi/) :pencil2:
 - Latest repo edited [View](https://mosi-arch.github.io/view/) :notebook:
 - More tutorial about [Solidity](https://github.com/mosi-sol) :paperclip:
