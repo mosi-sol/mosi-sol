@@ -59,6 +59,26 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 [INCOTERMS](https://github.com/mosi-sol/incoterms) - 
 [ICO](https://github.com/mosi-sol/live-contract-s3/tree/main/12-%20ICO) 
 
+**BITWISE OPERATOR's:**
+
+[SWAP VARIABLE VALUES](https://github.com/mosi-sol/live-contract-s3/tree/main/22-%20Swap%20Value) - 
+[IS EVEN NUMBER](https://github.com/mosi-sol/live-contract-s3/tree/main/23-%20Even%20Number) - 
+[ROLE](https://github.com/mosi-sol/live-contracts-s4/tree/main/01-%20Bitwise%20Role) - 
+[HASH ROLE](https://github.com/mosi-sol/live-contracts-s4/tree/main/02-%20Bitwise%20Hash%20Role) - 
+[ADD\SUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) - 
+[FIBONACI](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) - 
+[AVERAGE](https://github.com/mosi-sol/live-contracts-s4/tree/main/14-%20Bitwise%20Average) 
+
+**ALGORITHM's:**
+
+[LINEAR SEARCH](https://github.com/mosi-sol/live-contracts-s4/tree/main/11-%20Linear%20Search) - 
+[BUBBLE SORT](https://github.com/mosi-sol/live-contracts-s4/tree/main/10-%20Bubble%20Sort) - 
+[FACTORIAL](https://github.com/mosi-sol/live-contracts-s4/tree/main/09-%20Factorial) - 
+[ARMSTRONG NUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/08-%20Armstrong%20Number) - 
+[PERFECT NUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/07-%20Perfect%20Number) - 
+[REVERSE VALUE](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) - 
+[CALCULATE POWER](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) 
+
 #
 
 **HOW BLOCKCHAIN WORK:**
@@ -127,24 +147,6 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 [IERC LIB](https://github.com/mosi-sol/5min/tree/main/07-IERC%20Lib) - 
 [SAFE ACTION](https://github.com/mosi-sol/live-contract-s3/tree/main/06-SafeTransfer) - 
 [SAFE PERCENTAGE](https://github.com/mosi-sol/live-contract-s3/tree/main/19-Defi%20Safe%20Percentage) 
-
-**BITWISE OPERATOR's:**
-[SWAP VARIABLE VALUES](https://github.com/mosi-sol/live-contract-s3/tree/main/22-%20Swap%20Value) - 
-[IS EVEN NUMBER](https://github.com/mosi-sol/live-contract-s3/tree/main/23-%20Even%20Number) - 
-[ROLE](https://github.com/mosi-sol/live-contracts-s4/tree/main/01-%20Bitwise%20Role) - 
-[HASH ROLE](https://github.com/mosi-sol/live-contracts-s4/tree/main/02-%20Bitwise%20Hash%20Role) - 
-[ADD\SUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/03-%20Bitwise%20Add) - 
-[FIBONACI](https://github.com/mosi-sol/live-contracts-s4/tree/main/04-%20Bitwise%20Fibonaci) - 
-[AVERAGE](https://github.com/mosi-sol/live-contracts-s4/tree/main/14-%20Bitwise%20Average) 
-
-**ALGORITHM's:**
-[LINEAR SEARCH](https://github.com/mosi-sol/live-contracts-s4/tree/main/11-%20Linear%20Search) - 
-[BUBBLE SORT](https://github.com/mosi-sol/live-contracts-s4/tree/main/10-%20Bubble%20Sort) - 
-[FACTORIAL](https://github.com/mosi-sol/live-contracts-s4/tree/main/09-%20Factorial) - 
-[ARMSTRONG NUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/08-%20Armstrong%20Number) - 
-[PERFECT NUM](https://github.com/mosi-sol/live-contracts-s4/tree/main/07-%20Perfect%20Number) - 
-[REVERSE VALUE](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) - 
-[CALCULATE POWER](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) 
 
 **LATEST:**
 [TOKENIZED REAL SHOP](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
