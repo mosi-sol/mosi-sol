@@ -45,6 +45,22 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 
 ## content Sheet
 
+**DEFI's:**
+
+[SWAP](https://github.com/mosi-sol/live-contract-s3/tree/main/02-Swap%20No%20Fee) - 
+[CROWD FUNDING](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) - 
+[ESCROW](https://github.com/mosi-sol/live-contracts/tree/main/episode-21) - 
+[WRAPPED](https://github.com/mosi-sol/live-contract-s3/tree/main/08-Wraped%20Token) - 
+[MULTISIG](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
+[AUCTION](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) - 
+[MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) - 
+[TOKENIZE](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
+[STAKING](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
+[INCOTERMS](https://github.com/mosi-sol/incoterms) - 
+[ICO](https://github.com/mosi-sol/live-contract-s3/tree/main/12-%20ICO) 
+
+#
+
 **HOW BLOCKCHAIN WORK:**
 [BLOCKCHAIN SIMULATOR BY SOLIDITY](https://github.com/mosi-sol/live-contract-s3/tree/main/14-Blockchain%20Simulator) - 
 [BLOCK CHECK SIMULATOR](https://github.com/mosi-sol/live-contracts-s4/tree/main/13-%20How%20to%20Check%20Validator) 
@@ -153,22 +169,6 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 [ZK-SIGN](https://github.com/mosi-sol/live-contract-s3/tree/main/16-ZK-Signature) - 
 [ERC20 LEDGER VER1](https://github.com/mosi-sol/erc20/tree/main/Ledger%20ERC20%20Ver1) - 
 [ERC20 LEDGER VER2](https://github.com/mosi-sol/erc20/tree/main/LedgerErc20%20Ver2) 
-
-#
-
-**DEFI's:**
-
-[SWAP](https://github.com/mosi-sol/live-contract-s3/tree/main/02-Swap%20No%20Fee) - 
-[CROWD FUNDING](https://github.com/mosi-sol/live-contracts-s2/tree/main/21-Crowd%20Fund%20Raising%20part%202) - 
-[ESCROW](https://github.com/mosi-sol/live-contracts/tree/main/episode-21) - 
-[WRAPPED](https://github.com/mosi-sol/live-contract-s3/tree/main/08-Wraped%20Token) - 
-[MULTISIG](https://github.com/mosi-sol/live-contracts-s2/tree/main/19-Multisig%20Wallet) - 
-[AUCTION](https://github.com/mosi-sol/live-contracts-s2/tree/main/02-NftEnglishAuction) - 
-[MEMBERSHIP](https://github.com/mosi-sol/erc721/tree/main/Utility%20Membership) - 
-[TOKENIZE](https://github.com/mosi-sol/live-contract-s3/tree/main/05-Tokenize) - 
-[STAKING](https://github.com/mosi-sol/live-contracts/tree/main/episode-6) - 
-[INCOTERMS](https://github.com/mosi-sol/incoterms) - 
-[ICO](https://github.com/mosi-sol/live-contract-s3/tree/main/12-%20ICO) 
 
 #
 
