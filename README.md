@@ -22,10 +22,11 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 -->
 
 <div style="display: inline_block"><br>
-<a href="https://sol-app.github.io/mosi-sol/" target="_blank"><img src="https://img.shields.io/badge/-Popular%20repositories-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://sol-app.github.io/blog/" target="_blank"><img src="https://img.shields.io/badge/-Blog-%23900090?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://sol-app.github.io/mosi-sol/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 	<a href="https://sol-app.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/-Resume-%23ffcc11?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 	<a href="https://www.linkedin.com/in/moslem-abbasi/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%233fafff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-	<a href="https://linktr.ee/mosi.sol" target="_blank"><img src="https://img.shields.io/badge/-Reach%20me-900090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a>
+	<!-- <a href="https://linktr.ee/mosi.sol" target="_blank"><img src="https://img.shields.io/badge/-Reach%20me-900090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a> -->
 	<a href="https://github.com/mosi-sol/mosi-sol/blob/main/More.md" target="_blank"><img src="https://img.shields.io/badge/-Read%20more-909090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a>
     <!-- <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://img.shields.io/badge/-9077B5?style=for-the-badge&logo=solidity&logoColor=white" /></a> -->
     <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://simpleicons.org/icons/solidity.svg" /></a>
