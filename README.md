@@ -48,8 +48,8 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 
 ##
 
-CONTENT SHEET ==> [ORGANIZE & SORTED SOLIDITY LEARNING](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) \
-WEB3 CONTENT ==> [SOL-APP ORGANIZATION](https://github.com/sol-app)
+SOLIDITY CONTENT SHEET ==> [ORGANIZE & SORTED SOLIDITY LEARNING](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) \
+WEB3 CONTENT SHEET ==> [SOL-APP ORGANIZATION](https://github.com/sol-app)
 
 ---
 
