@@ -53,6 +53,7 @@ CONTENT SHEET ==> [ORGANIZE & SORTED SOLIDITY LEARNING](https://github.com/mosi-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB)](https://git.io/streak-stats) 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github&preferLogin=false&Ring=8B4BDD&Title=8F51DD)](https://git.io/awesome-stats-card)
 
 ##
