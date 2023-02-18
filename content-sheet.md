@@ -134,3 +134,7 @@
 [DEFI 2 & ZK-PROOF](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) - 
 [SECURE TRANSACTION](https://github.com/mosi-sol/ZK/blob/main/README.md) - 
 [STARTUP INFO](https://github.com/mosi-sol/startup) 
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB)](https://git.io/streak-stats)
