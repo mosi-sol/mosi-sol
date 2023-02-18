@@ -34,6 +34,15 @@
 [REVERSE VALUE](https://github.com/mosi-sol/live-contracts-s4/tree/main/06-%20Reverse%20value) - 
 [CALCULATE POWER](https://github.com/mosi-sol/live-contracts-s4/tree/main/05-%20Calculate%20Power) 
 
+**CIPHER:**
+
+[MORSE CODE - LETTER](https://github.com/mosi-sol/live-contracts-s4/tree/main/17-%20Cipher%20Morse%20code%201) - 
+[MORSE CODE - WORD](https://github.com/mosi-sol/live-contracts-s4/tree/main/18-%20Cipher%20Morse%20Code%202) - 
+[BARBONE - BASIC](https://github.com/mosi-sol/live-contracts-s4/tree/main/19-%20Cipher%20Barbone) - 
+[CAESAR - LEGACY](https://github.com/mosi-sol/live-contracts-s4/tree/main/20-%20Caesar%20Cipher) - 
+[ENIGMA MACHINE](https://github.com/mosi-sol/live-contracts-s4/tree/main/21-%20Enigma%20simulator) - 
+[ABJAD - LEGACY](https://github.com/mosi-sol/live-contracts-s4/tree/main/22-%20Abjad%20Cipher) 
+
 #
 
 **HOW BLOCKCHAIN WORK:**
