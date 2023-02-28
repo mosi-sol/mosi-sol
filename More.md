@@ -183,6 +183,12 @@ Latest Repo's: <a href="https://mosi-arch.github.io/view/" target="blank">Mosi-s
 
 #
 
+**Gist**
+[SSH BUILDER](https://gist.github.com/mosi-sol/55b2da3448738f08542eb7d10a975c8d) - 
+[MY GIST FILES](https://gist.github.com/mosi-sol) 
+
+#
+
 ### disclaimer
 - all repo : ``use/build at your own risk``
 - all repo : `have own readme / document`
