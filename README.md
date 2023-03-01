@@ -23,7 +23,7 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 
 <div style="display: inline_block"><br>
 <a href="https://sol-app.github.io/blog/" target="_blank"><img src="https://img.shields.io/badge/-Blog-%23900090?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-<a href="https://sol-app.github.io/mosi-sol/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://solstep.gitbook.io/solidity-steps/" target="_blank"><img src="https://img.shields.io/badge/-Solidity%20Steps-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 	<a href="https://sol-app.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/-Resume-%23ffcc11?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 	<a href="https://www.linkedin.com/in/moslem-abbasi/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%233fafff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	<!-- <a href="https://linktr.ee/mosi.sol" target="_blank"><img src="https://img.shields.io/badge/-Reach%20me-900090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a> -->
