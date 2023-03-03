@@ -63,6 +63,8 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 [![GitHub Streak](https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB)](https://github.com/mosi-sol) 
 <!--(https://git.io/streak-stats) --><!--(https://git.io/awesome-stats-card)-->
 
+> At the end, people will be won!
+
 ##
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
