@@ -54,7 +54,7 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 | **SOLIDITY CONTENT SHEET** | [SORTED LIST OF SOLIDITY](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) | *SOURCE CODE* |
 | **WEB3 CONTENT SHEET** | [SORTED LIST OF WEB3](https://github.com/sol-app) | *SOURCE CODE* |
 | ❕[disclaimer](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) | ❕[warning](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#attention--warnings) | ❕[attention](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#important-atention) |
-| start learning [here](https://github.com/mosi-sol/shell/tree/main)  |  |  |
+| start learning [here](https://github.com/mosi-sol/shell/tree/main)  |  | useful contracts [here](https://github.com/mosi-arch/archive-sol) |
 
 ---
 
