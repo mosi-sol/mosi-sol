@@ -46,16 +46,6 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
     </a>
 </div>
 
-##
- 
-
-| Content Title | Link | About |
-| ---- | ----- | ----- |
-| **SOLIDITY CONTENT SHEET** | [SORTED LIST OF SOLIDITY](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) | *SOURCE CODE* |
-| **WEB3 CONTENT SHEET** | [SORTED LIST OF WEB3](https://github.com/sol-app) | *SOURCE CODE* |
-| ❕[disclaimer](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) | ❕[warning](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#attention--warnings) | ❕[attention](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#important-atention) |
-| start learning [here](https://github.com/mosi-sol/shell/tree/main)  | Solidity 101 [here](https://github.com/mosi-sol/Solidity101) | useful contracts [here](https://github.com/mosi-arch/archive-sol) |
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) \
@@ -64,6 +54,15 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 <!--(https://git.io/streak-stats) --><!--(https://git.io/awesome-stats-card)-->
 
 > At the end, people will be won!
+
+##
+ 
+| Content Title | Link | About |
+| ---- | ----- | ----- |
+| **SOLIDITY CONTENT SHEET** | [SORTED LIST OF SOLIDITY](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) | *SOURCE CODE* |
+| **WEB3 CONTENT SHEET** | [SORTED LIST OF WEB3](https://github.com/sol-app) | *SOURCE CODE* |
+| ❕[disclaimer](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) | ❕[warning](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#attention--warnings) | ❕[attention](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#important-atention) |
+| start learning [here](https://github.com/mosi-sol/shell/tree/main)  | Solidity 101 [here](https://github.com/mosi-sol/Solidity101) | useful contracts [here](https://github.com/mosi-arch/archive-sol) |
 
 ##
 
