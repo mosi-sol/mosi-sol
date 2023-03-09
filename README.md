@@ -36,7 +36,7 @@ Popular repositories <a href="https://sol-app.github.io/mosi-sol/" target="_blan
 ##
 
 <div> 
-    other technologies: 
+    other: 
     <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     </a><a href="https://en.wikipedia.org/wiki/HTML">
