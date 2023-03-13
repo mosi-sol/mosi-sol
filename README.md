@@ -31,8 +31,8 @@
 ---
 
 <div>
-<a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact" /></a>
 <a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB" /></a> 
+<a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact" /></a>
 </div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) \-->
 <!--[![My Awesome Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) 
