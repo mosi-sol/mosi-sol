@@ -41,7 +41,7 @@
 | ---- | ----- | ----- |
 | Solidity - Usefull's [here](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) | Web3 Usefull's [here](https://github.com/sol-app) | Solidity 101 [here](https://github.com/mosi-sol/Solidity101) |
 | Defi - Algorithms... [here](https://github.com/mosi-arch/archive-sol) | Blog [here](https://sol-app.github.io/blog/) | Solidity Step by step [here](https://solstep.gitbook.io/solidity-steps/) |
-| Buy me a cofee [here](https://sol-app.github.io/Donation/) | Resume [here](https://sol-app.github.io/resume/) | disclaimer [here](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) |
+| **Buy me a cofee** [here](https://sol-app.github.io/Donation/) | **Resume** [here](https://sol-app.github.io/resume/) | **Disclaimer** [here](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) |
 
 ##
 
@@ -54,7 +54,7 @@
 <a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact" /></a>
 </div>
 
-##
+
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 <a href="https://github.com/mosi-sol"><img src="https://img.shields.io/badge/Mosi--sol-2023-lightgrey?style=social&logo=github" /></a>
