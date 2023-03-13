@@ -8,7 +8,7 @@
 	<!-- <a href="https://linktr.ee/mosi.sol" target="_blank"><img src="https://img.shields.io/badge/-Reach%20me-900090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a> -->
 	<a href="https://github.com/mosi-sol/mosi-sol/blob/main/More.md" target="_blank"><img src="https://img.shields.io/badge/-Read%20more-909090?style=for-the-badge&logo=ethereum&logoColor=white" target="_blank"></a>
     <!-- <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://img.shields.io/badge/-9077B5?style=for-the-badge&logo=solidity&logoColor=white" /></a> -->
-    <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="130" style="border-radius:50px;" src="https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github&preferLogin=false&Ring=8B4BDD&Title=8F51DD" /></a>
+    <a href="https://sol-app.github.io/Donation/"><img align="right" alt="mosi-sol" height="145" style="border-radius:50px;" src="https://awesome-github-stats.azurewebsites.net/user-stats/mosi-sol?cardType=level&theme=github&preferLogin=false&Ring=8B4BDD&Title=8F51DD" /></a>
     
 </div>
     
@@ -30,14 +30,16 @@
 
 ---
 
+<div>
+<a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact" /></a>
+<a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB" /></a> 
+</div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) \-->
-[![My Awesome Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB)](https://github.com/mosi-sol) 
+<!--[![My Awesome Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact)](https://github.com/mosi-sol) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB)](https://github.com/mosi-sol)--> 
 <!--(https://git.io/streak-stats) --><!--(https://git.io/awesome-stats-card)-->
 
-> At the end, people will be won!
 
-##
  
 |  |  |  |
 | ---- | ----- | ----- |
@@ -45,6 +47,11 @@
 | Defi - Algorithms... [here](https://github.com/mosi-arch/archive-sol) | Blog [here](https://sol-app.github.io/blog/) | Solidity Step by step [here](https://solstep.gitbook.io/solidity-steps/) |
 | Buy me a cofee [here](https://sol-app.github.io/Donation/) | Resume [here](https://sol-app.github.io/resume/) | disclaimer [here](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) |
 
+##
+
+> At the end, people will be won!
+
+##
 
 ##
 
