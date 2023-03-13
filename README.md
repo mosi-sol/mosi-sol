@@ -41,9 +41,9 @@
  
 |  |  |  |
 | ---- | ----- | ----- |
-| [Solidity - Usefull's](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) | [Web3 Usefull's](https://github.com/sol-app) | [Solidity 101](https://github.com/mosi-sol/Solidity101) |
-| [Defi - Algorithms...](https://github.com/mosi-arch/archive-sol) | [Blog](https://sol-app.github.io/blog/) | [Solidity Step by step](https://solstep.gitbook.io/solidity-steps/) |
-| [Buy me a cofee](https://sol-app.github.io/Donation/) | [Resume](https://sol-app.github.io/resume/) | [disclaimer](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) |
+| Solidity - Usefull's [here](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) | Web3 Usefull's [here](https://github.com/sol-app) | Solidity 101 [here](https://github.com/mosi-sol/Solidity101) |
+| Defi - Algorithms... [here](https://github.com/mosi-arch/archive-sol) | Blog [here](https://sol-app.github.io/blog/) | Solidity Step by step [here](https://solstep.gitbook.io/solidity-steps/) |
+| Buy me a cofee [here](https://sol-app.github.io/Donation/) | Resume [here](https://sol-app.github.io/resume/) | disclaimer [here](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) |
 
 
 ##
