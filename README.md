@@ -52,11 +52,6 @@
 |||
 | ---- | ---- |
 | <a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=mosi-sol&theme=vue&fire=EB5454&currStreakNum=EB5454&sideLabels=5C85EB&ring=EBBE4A&sideNums=5C85EB&currStreakLabel=5C85EB" /></a> | <a href="https://github.com/mosi-sol"><img align="right" alt="mosi-sol" height="175" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosi-sol&layout=compact" /></a> |
-
-
-
-
-![License](https://img.shields.io/badge/License-MIT-blue)
-<a href="https://sol-app.github.io/Donation/"><img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-gray?style=plastic&logo=java" /></a>
+| ![License](https://img.shields.io/badge/License-MIT-blue) | <a href="https://sol-app.github.io/Donation/"><img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-gray?style=plastic&logo=java" /></a> |
 <!--<a href="https://github.com/mosi-sol"><img src="https://img.shields.io/badge/Mosi--sol-2023-lightgrey?style=social&logo=github" /></a>-->
 
