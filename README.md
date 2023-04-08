@@ -14,7 +14,7 @@
 | ---- | ---- | ---- | ---- |
 | **Ongoing** | Solidity usefull's [here](https://github.com/mosi-sol/mosi-sol/blob/main/content-sheet.md) | Web3 usefull's [here](https://github.com/sol-app) | Defi - Algorithms... [here](https://github.com/mosi-arch/archive-sol) | 
 | **Live** | Blog [here](https://sol-app.github.io/blog/) | Solidity step by step [here](https://solstep.gitbook.io/solidity-steps/) | Simulators & teaching center [here](https://github.com/mosi-sol/shell) |
-| **Research** | Researches [here](https://github.com/mosi-arch/research) | | Solidity Season - [S1](https://github.com/mosi-sol/live-contracts) - [S2](https://github.com/mosi-sol/live-contracts-s2) - [S3](https://github.com/mosi-sol/live-contract-s3) - [S4](https://github.com/mosi-sol/live-contracts-s4) |
+| **Research** | Mathematics & Blockchain [here](https://github.com/mosi-arch/research) | | Solidity Season - [S1](https://github.com/mosi-sol/live-contracts) - [S2](https://github.com/mosi-sol/live-contracts-s2) - [S3](https://github.com/mosi-sol/live-contract-s3) - [S4](https://github.com/mosi-sol/live-contracts-s4) |
 | **more** | Disclaimer [here](https://github.com/mosi-sol/mosi-sol/blob/main/More.md#disclaimer) | Donation [here](https://sol-app.github.io/Donation/) | |
 | | <a href="https://sol-app.github.io/Donation/"><img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-gray?style=plastic&logo=java" /></a> | ![License](https://img.shields.io/badge/License-MIT-blue) | <a href="https://github.com/mosi-sol"><img src="https://img.shields.io/badge/Mosi--sol-2023-lightgrey?style=social&logo=github" /></a> |
 
