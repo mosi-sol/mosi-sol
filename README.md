@@ -25,6 +25,6 @@
 
 ||
 |---|
-|![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosi-sol&theme=github-compact)|
+|![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mosi-sol&custom_title=nightly%20builds&theme=github-compact)|
 
 > At the end, people will be won!
