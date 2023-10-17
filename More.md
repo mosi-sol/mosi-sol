@@ -19,7 +19,7 @@ My Popular Repo: <a href="https://sol-app.github.io/mosi-sol/" target="blank">La
 <br />
 How to reach me: <a href="https://linktr.ee/mosi.sol" target="blank">Linktree</a> 
 <br />
-Know about my experiences: <a href="https://www.linkedin.com/in/moslem-abbasi/" target="blank">Linkedin</a> 
+Know about my experiences: <a href="https://www.linkedin.com/in/lotus-chain/" target="blank">Linkedin</a> 
 <br />
 My solidity teaching channel on youtube(farsi): <a href="https://youtube.com/pafecafe" target="blank">Pafe Cafe</a> 
 <br />
