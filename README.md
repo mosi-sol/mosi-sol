@@ -8,3 +8,4 @@
 |Product Repo's| [blue-lotus-lab](https://github.com/blue-lotus-lab)|
 |Personal Repo's| [mosi-sol](https://github.com/mosi-sol/mosi-sol/blob/main/MY-README.md) |
 
+![logo](https://github.com/mosi-sol/mosi-sol/blob/main/satoshi-blue-lotus-2.png)
