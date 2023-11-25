@@ -16,7 +16,8 @@
 |---|---|
 | BluLotus @ linkedin | [Linkedin](https://www.linkedin.com/company/bluelotus-corp) |
 | LotusChain Main Repo's | [blue-lotus-org](https://github.com/blue-lotus-org) |
-| LotusChain Product Repo's | [blue-lotus-lab](https://github.com/blue-lotus-lab)|
+| LotusChain Product Repo's | [blue-lotus-lab](https://github.com/blue-lotus-lab) |
+| LotusLab | [lib](https://github.com/blue-lotus-lab/LibExtentions) |
 |||
 | Personal Repo's { teach center } | [mosi-sol](https://github.com/mosi-sol/mosi-sol/blob/main/MY-README.md) |
 | Personal Researches | [researchs](https://github.com/mosi-arch/research) |
