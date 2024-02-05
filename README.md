@@ -26,3 +26,7 @@
 <img src="https://github.com/mosi-sol/mosi-sol/blob/main/satoshi-blue-lotus-2.png" width="350" heigth="350" />
 
 <!-- https://www.buymeacoffee.com/mosisol -->
+
+#
+
+**Mosi Theorem**: all "**practical numbers**" into the set of (**3n+1**).
