@@ -21,6 +21,7 @@
 | **Personal area** ||
 | Personal Repo's { teach center } | [mosi-sol](https://github.com/mosi-sol/mosi-sol/blob/main/MY-README.md) |
 | Personal Researches | [researchs](https://github.com/mosi-arch/research) |
+| Mosi Math | [repo](https://github.com/mosi-sol/Mosi-Math) |
 
 <!--![logo](https://github.com/mosi-sol/mosi-sol/blob/main/satoshi-blue-lotus-2.png)-->
 <img src="https://github.com/mosi-sol/mosi-sol/blob/main/satoshi-blue-lotus-2.png" width="350" heigth="350" />
